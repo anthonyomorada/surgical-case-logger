@@ -1,0 +1,4 @@
+# requirements.txt
+selenium
+notion-client
+pandas
